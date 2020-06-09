@@ -1,0 +1,174 @@
+######################## default configuration ####################
+baseURL = "https://examplesite.org"
+title = "Cyber Security Summit: Bangalore 2020"
+theme = "bbsite"
+# post pagination
+paginate = "4"
+# post excerpt
+summaryLength = "10"
+# disqus short name
+disqusShortname = "vixcon" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = ["fr"] # desable language from here
+
+# output
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+unsafe= true
+
+############################# Plugins ##############################
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/css/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themefisher-font/themefisher-font.min.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/js/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/syotimer/jquery.syotimer.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+
+############################## navigation ###############################
+[menu]
+    
+  [[menu.main]]
+  name = "About"
+  URL = "about"
+  weight = 2
+  
+  [[menu.main]]
+  name = "Team"
+  URL = "team"
+  weight = 3
+
+  [[menu.main]]
+  name = "Speakers"
+  URL = "speaker"
+  weight = 4
+
+  [[menu.main]]
+  weight = 5
+  name = "Join Us"
+  hasChildren = true
+
+    [[menu.main]]
+    parent = "Join Us"
+    name = "Tickets"
+    URL = "pricing"
+
+
+    [[menu.main]]
+    parent = "Join Us"
+    name = "Schedule"
+    URL = "schedule"
+
+    [[menu.main]]
+    parent = "Join Us"
+    name = "Call For Papers"
+    URL = "cfp"
+
+    [[menu.main]]
+    parent = "Join Us"
+    name = "Review Board"
+    URL = "reviewboard"
+
+    [[menu.main]]
+    parent = "Join Us"
+    name = "FAQ"
+    URL = "faq"
+    
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 6
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+home = "Home"
+# Meta data
+description = "This is meta description"
+author = "BSides Bangalore"
+# email address
+email = "info@bsidesbangalore.in"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# Google Analitycs
+google_analitycs_id = "" # your id
+# search for blog page
+search = true
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation button
+[params.navigation_button]
+enable = false
+label = "Get Ticket"
+link = "pricing"
+
+
+# Subscription
+[params.subscription]
+enable = true
+# mailchimp subsciption
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+
+# google map
+[params.map]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+
+
+############################# social icon ############################
+[[params.social]]
+icon = "tf-ion-social-facebook"
+link = "https://www.facebook.com/BSides-Bangalore-112456593614037"
+
+[[params.social]]
+icon = "tf-ion-social-twitter"
+link = "https://twitter.com/bsidesbangalore"
+
+[[params.social]]
+icon = "tf-ion-social-linkedin"
+link = "https://www.linkedin.com/company/bsidesbangalore/"
+
+[[params.social]]
+icon = "tf-ion-social-instagram"
+link = "https://www.instagram.com/bsidesbangalore/"
+
+[[params.social]]
+icon = "tf-ion-social-youtube"
+link = "https://www.youtube.com/channel/UC0SqOU2NDDIP0bbt5OwW8Hw"
+
+
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+home = "Home"
+# footer content
+footer_content = "BSides Bangalore is a community driven framework for building events by and for information security community members."
+# copyright
+copyright = "Copyright &copy; 2020 - BSides Bangalore 2020."

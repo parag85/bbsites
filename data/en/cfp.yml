@@ -1,0 +1,51 @@
+################################# Faq ####################################
+cfp:
+  title_outline : "CFP"
+  title : "CALL FOR PAPERS"
+  content : "BSides Bangalore is community driven hacking and security research event. We welcome researchers to showcase their remarkable work in this field. <br/><br/>
+You can submit an abstract of your paper at cfp@bsidesbangalore.in . We are looking for some outstanding proposals in the categories:
+<ul>
+<li>Techincal Talks (30-40 minutes)</li>
+<li>Workshops (2 hours)</li>
+<li>Villages ( 3 hours)</li></ul>"
+  cfp_item:
+    # faq item loop
+    - title : "Topics / Areas Of Intrest"
+      content : "
+      <ul>
+      <li>AI and ML in security</li>
+      <li>Malware Analysis</li>
+      <li>BlockChain</li>
+      <li>Forensics</li>
+      <li>Data Anonymization and Data Privacy</li>
+      <li>Data Security</li>
+      <li>Security Advocacy</li>
+      <li>IOT/ICS/SCADA</li>
+      <li>Network Security</li>
+      <li>Driverless Cars and Drone Security</li>
+      <li>Behaviour and Sentimental Analytics</li>
+      <li>Bug Bounty - Challenges and Opportunities</li></ul>"
+      
+    # faq item loop
+    - title : "Important Dates"
+      content : "<ul>
+      <li>Call For Papers opens           : Coming Soon...!</li>
+      <li>Abstract Submission Deadline    : Coming Soon...!</li>
+      <li>Final Paper Submission Deadline : Coming Soon...!</li>
+      <li>Speaker Accouncement            : Coming Soon...!</li></ul>"
+      
+    # faq item loop
+    - title : "Call for papers guidelines"
+      content : "<ul>
+      <li>The speakers and presenters are advised not to submit talks about any companies or products. The Event will not be able to accept workshops or speeches that only use commercial products. However,you can utilize free/evaluation version or feature in your workshops and talks.</li>
+      <li>The speakers and presenters must ensure that the workshops , villages abd talks are technically sound. The workshops / villages should preferably have more hands-on exercises.</li>
+      <li>We encourage submissions of original , unpublished works in the mentioned areas of intrest.</li>
+      <li>To respect the efforts of reviewers , we request to fill the attached template. Click here for the template (URL)</li></ul>"
+      
+
+  ################ support #################
+  support:
+    title : "Need Any further Support?"
+    button:
+      lable : "Contact us"
+      link : "contact"

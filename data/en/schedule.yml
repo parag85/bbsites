@@ -1,0 +1,57 @@
+schedule:
+  enable : true
+  title_outline : "schedule"
+  title : "Topic Discussion"
+  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis option."
+  schedule_tab:
+    ################# tab itam loop ################
+    - title : "Conference Day"
+      date_time : "Coming soon...." #"July 18 ,2020 [09.00am - 06.00pm]"
+      schedule_items:
+        # schedule loop item
+#        - time : "9.00am"
+#          image : "images/about/wordpress.png"
+#          content : "
+          
+          ### Introduction of material Design
+
+          ###### By Risabh moinul
+
+ #         Founder of themefisher
+ #         "
+          
+        # schedule loop item
+#        - time : "9.00am"
+#          image : "images/about/big-data.png"
+#          content : "
+          
+          ### Marketing Matters in design area
+
+          ###### By Risabh moinul
+
+ #         Founder of themefisher
+ #         "
+          
+        # schedule loop item
+ #       - time : "9.00am"
+ #         image : "images/about/lunch.jpg"
+ #         content : "
+          
+          ### Launch Break
+
+          ###### By Risabh moinul
+
+  #        Founder of themefisher
+  #        "
+          
+        # schedule loop item
+  #      - time : "2.00pm"
+  #        image : "images/about/creativity.jpg"
+  #        content : "
+          
+          ### Cultures of Creativity
+
+          ###### By Risabh moinul
+
+  #        Founder of themefisher          
+  #         "

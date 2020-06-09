@@ -1,0 +1,47 @@
+################## about #################################
+about:
+  enable : true
+  image : "images/bg/ctg.jpg"
+  title : "Inovation & **Inspiration** Connect People"
+  content : "BSides Bangalore is community driven platform had arrived to silicon valley of India to enable encourage and appreciate the Cyber Security community by providing opportunity to collaborate,network and learn security geeks around. <br/><br/>
+First Ever Bsides Conference at Bangalore Security Besides Bangalore 2020 is one of its kind of security event that aims to bring together Cyber, Data Privacy, auditing forensics community provides a meeting place for like Minded Professionals."
+################## sponsor ###############################
+sponsor:
+  enable : true
+  # sponsor data comes from "homepage.yml" file
+
+
+################## Feature ##############################
+feature:
+  enable : true
+  subtitle : "10% Sale offer for early birds"
+  title : "Meet top **digital masters** & influencers in a unique **3-days** experience."
+  button:
+    enable : true
+    label : "Get ticket"
+    link : "pricing"
+  
+  feature_item:
+    # feature item loop
+    - title : "Global Audience"
+      icon : "tf-ion-android-globe" # check `static/plugins/themefisher-font/demo.html` for more icon
+      bg_color : "#17a2b8"
+      content : "Starting a mentoring program might be the closest you'll ever get."
+      
+    # feature item loop
+    - title : "Valuable Insight"
+      icon : "tf-ion-android-microphone" # check `static/plugins/themefisher-font/demo.html` for more icon
+      bg_color : "" # if color is empty, it will get the default dark color
+      content : "Starting a mentoring program might be the closest you'll ever get."
+      
+    # feature item loop
+    - title : "Global Audience"
+      icon : "tf-ion-android-globe" # check `static/plugins/themefisher-font/demo.html` for more icon
+      bg_color : "#ff4747"
+      content : "Starting a mentoring program might be the closest you'll ever get."
+      
+    # feature item loop
+    - title : "Global Audience"
+      icon : "tf-ion-android-microphone" # check `static/plugins/themefisher-font/demo.html` for more icon
+      bg_color : "#4125dd"
+      content : "Starting a mentoring program might be the closest you'll ever get."
