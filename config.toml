@@ -54,10 +54,10 @@ link = "plugins/google-map/map.js"
   URL = "team"
   weight = 3
 
-  [[menu.main]]
-  name = "Speakers"
-  URL = "speaker"
-  weight = 4
+#  [[menu.main]]
+#  name = "Speakers"
+#  URL = "speaker"
+#  weight = 4
 
   [[menu.main]]
   weight = 5
@@ -70,10 +70,10 @@ link = "plugins/google-map/map.js"
     URL = "pricing"
 
 
-#    [[menu.main]]
-#    parent = "Join Us"
-#    name = "Schedule"
-#    URL = "schedule"
+    [[menu.main]]
+    parent = "Join Us"
+    name = "Schedule"
+    URL = "schedule"
 
     [[menu.main]]
     parent = "Join Us"
