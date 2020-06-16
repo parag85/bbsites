@@ -3,11 +3,11 @@ banner:
   enable : true
   title : "Open Security <br> Summit"
   bg_image: "images/banner/banner-2.jpg"
-  date_time : "July 18, at 09.00am"
-  button:
-    enable : "Discover more"
-    label : "Discover more"
-    link : "service"
+  date_time : "Coming Soon!"
+#  button:
+#    enable : "Discover more"
+#    label : "Discover more"
+#    link : "service"
 
 ########################## timer #################################
 timer:
