@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Open Security <br> Summit"
   bg_image: "images/banner/banner-2.jpg"
-  date_time : "Coming Soon!"
+  date_time : "Date:  Coming Soon!"
 #  button:
 #    enable : "Discover more"
 #    label : "Discover more"
