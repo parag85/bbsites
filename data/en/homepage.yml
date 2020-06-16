@@ -88,28 +88,12 @@ sponsor:
   title : "Amazing Partners & Sponsors"
   sponsor_group:
     ############################ sponsor group loop
-    - title : "Amazing Partners & Sponsors"
+    - title : "Community Partners"
       sponsor:
         # sponcor loop
-        - logo : "images/clients/client-img-1.png"
-          link : "https://examplesite.org"
-          
-        # sponcor loop
-        - logo : "images/clients/client-img-2.png"
-          link : "#"
-          
-        # sponcor loop
-        - logo : "images/clients/client-img-3.png"
-          link : "https://examplesite.org"
-          
-        # sponcor loop
-        - logo : "images/clients/client-img-4.png"
-          link : "#"
-          
-        # sponcor loop
-        - logo : "images/clients/client-img-5.png"
-          link : "https://examplesite.org"
-          
+        - logo : "images/clients/infosecgirls.png"
+          link : "https://www.infosecgirls.in"
+                  
     ############################ sponsor group loop
     - title : "Platinum Sponsors"
       sponsor:
