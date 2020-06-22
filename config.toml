@@ -87,6 +87,11 @@ link = "plugins/google-map/map.js"
 
     [[menu.main]]
     parent = "Join Us"
+    name = "Volunteer"
+    URL = "volunteer"
+
+    [[menu.main]]
+    parent = "Join Us"
     name = "FAQ"
     URL = "faq"
     
