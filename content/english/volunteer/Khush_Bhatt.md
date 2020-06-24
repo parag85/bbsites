@@ -6,7 +6,7 @@ description: "this is meta description"
 bg_image : "images/bg/cta-bg.jpg"
 image : "images/teams/khush_bhatt.jpg"
 designation : "Manager - Business Enterprise"
-email : "dave.parag85@live.com"
+email : ""
 type : "team"
 social:
   # social site loop
