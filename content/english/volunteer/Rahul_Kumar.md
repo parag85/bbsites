@@ -17,5 +17,12 @@ social:
     link : "https://www.linkedin.com/in/rahul-kumar-"
 
 # professional skill
+skill:
+  # skill loop
+  - title : "Designer"
+    icon : "tf-ion-android-document"
+    content : "Graphic Design Specialist with demonstrated history of working in the non-profit organization management industries. Skilled in UI / UX, Unity3D, Game Design, Graphic Design, Maya, and Visual Effects."
+    
+---
 
 Rahul is experienced Graphic Design Specialist with demonstrated history of working in the non-profit organization management industries. Skilled in UI / UX, Unity3D, Game Design, Graphic Design, Maya, and Visual Effects. Pursuing Bachelor's degree focused in Animation, Interactive Technology, Video Graphics and Special Effects from University of Petroleum and Energy Studies. 
