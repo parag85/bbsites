@@ -5,7 +5,7 @@ draft: false
 description: "this is meta description"
 bg_image : "images/bg/cta-bg.jpg"
 image : "images/teams/rahul_kumar.jpg"
-designation : "Design and VFX head at DEFCON"
+designation : "UX Lead @ dcg91135 (DEFCON groups Dehradun)"
 email : ""
 type : "team"
 social:
