@@ -1,12 +1,12 @@
 ---
-title: "Parag Dave"
+title: "Rahul Kumar"
 date: 2019-09-10T13:51:25+06:00
 draft: false
 description: "this is meta description"
 bg_image : "images/bg/cta-bg.jpg"
-image : "images/teams/parag_dave.jpg"
-designation : "Lead Engineer @ Qualitrix"
-email : "dave.parag85@live.com"
+image : "images/teams/rahul_kumar.jpg"
+designation : "Design and VFX head at DEFCON"
+email : ""
 type : "team"
 social:
   # social site loop
@@ -14,10 +14,10 @@ social:
     link : "https://www.facebook.com/dave.parag85"
   # social site loop
   - icon : "tf-ion-social-twitter"
-    link : "https://twitter.com/parag_dave"
+    link : "https://twitter.com/aarnav_rahul"
   # social site loop
   - icon : "tf-ion-social-linkedin"
-    link : "https://www.linkedin.com/in/daveparag/"
+    link : "https://www.linkedin.com/in/rahul-kumar-"
 
 # professional skill
 skill:
