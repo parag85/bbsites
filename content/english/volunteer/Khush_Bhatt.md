@@ -5,10 +5,13 @@ draft: false
 description: "this is meta description"
 bg_image : "images/bg/cta-bg.jpg"
 image : "images/teams/khush_bhatt.jpg"
-designation : "Manager - Business Enterprise"
-email : ""
+designation : "Manager - Business Enterprise in Cyber Security Company"
+email : "khushro2@gmail.com"
 type : "team"
 social:
+  # social site loop
+  - icon : "tf-ion-social-facebook"
+    link : "https://www.facebook.com/khush008"
   # social site loop
   - icon : "tf-ion-social-twitter"
     link : "https://twitter.com/khushbhatt"
@@ -19,10 +22,10 @@ social:
 # professional skill
 skill:
   # skill loop
-  - title : "Manager - Business Enterprise @ Techdefence Labs"
+  - title : "Manager - Business Enterprise in Cyber Security Company"
     icon : "tf-ion-android-document"
-    content : "Motive of my organizational career is to help create and maintain market presence by practicing continuously evolving marketing and branding trends, assuring achievement of segmented targets of the organization."
+    content : "When it comes to Sales in Cyber Security, I can bring VAPT Projects for Web,Mobile,Network,SOC etc, I can also sell any products in cyber security with combined technical and sales skills."
     
 ---
 
-Khush is a Manager - Business Enterprise @ Techdefence Labs, Lead Volunteer@ Bsidesahmedabad, Owaspseasides, Nullcon Goa, Bsides Bangalore, Hackers Meetup. Researcher at Bugcrowd, Infosec Manager 
+Khush is working as a Manager in Cyber Security Firm with Combined Technical as well as Sales Skills, He is also a Bug Bounty Hunter. Khush was also Volunteer at Bsides Ahmedabad, Nullcon Goa, Owasp Seasides and is actively contributing to infosec community.
