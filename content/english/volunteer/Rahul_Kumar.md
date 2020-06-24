@@ -10,9 +10,6 @@ email : ""
 type : "team"
 social:
   # social site loop
-  - icon : "tf-ion-social-facebook"
-    link : "https://www.facebook.com/dave.parag85"
-  # social site loop
   - icon : "tf-ion-social-twitter"
     link : "https://twitter.com/aarnav_rahul"
   # social site loop
