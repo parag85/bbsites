@@ -2,6 +2,7 @@
 title: "Arun S"
 date: 2019-09-10T13:51:25+06:00
 draft: false
+weight: 3
 description: "this is meta description"
 bg_image : "images/bg/cta-bg.jpg"
 image : "images/teams/arun.jpg"

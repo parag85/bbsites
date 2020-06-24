@@ -2,6 +2,7 @@
 title: "Ashokkumar Ratanagiri"
 date: 2019-09-10T13:51:25+06:00
 draft: false
+weight: 2
 description: "Director & Head - Product Security and Systems Engineering at EdgeVerve Systems Ltd"
 bg_image : "images/bg/cta-bg.jpg"
 image : "images/teams/ashokkumar_ratanagiri.jpg"
