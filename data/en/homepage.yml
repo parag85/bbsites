@@ -104,7 +104,11 @@ sponsor:
 
         # sponcor loop
         - logo : "images/clients/red_team_village.png"
-          link : "#"          
+          link : "https://www.redteamvillage.org/"          
+
+        # sponcor loop
+        - logo : "images/clients/nullcon.png"
+          link : "https://nullcon.net/"          
 
     ############################ sponsor group loop
 #    - title : "Platinum Sponsors"
