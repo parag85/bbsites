@@ -59,7 +59,7 @@ feature:
       content : "BSides Bangalore strives to bring together the best minds in the industry. It encourages and inspires professionals at all career levels globally to join us and collaborate and network with world-class security researchers, and leaders in the public and private sectors."
       
     # feature item loop
-    - name : "Great Community"
+    - name : "Sponsor Spotlight"
       icon : "tf-ion-android-share"
       content : "BSides Bangalore takes pride in recognizing our sponsors and partners who support us positively to the growth of BSides Bangalore. This event provides unique opportunities for community engagement between vendors and attendees."
 
