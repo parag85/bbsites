@@ -7,7 +7,7 @@ description: "this is meta description"
 bg_image : "images/bg/cta-bg.jpg"
 image : "images/teams/sujatha_yakasiri.jpg"
 designation : "FOUNDER"
-email : "sujata@bb.com"
+email : "sujathay.nweh@gmail.com"
 type : "team"
 social:
   # social site loop
