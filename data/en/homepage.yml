@@ -56,12 +56,12 @@ feature:
     # feature item loop
     - name : "Global Audience"
       icon : "tf-ion-android-globe"
-      content : "Starting a mentoring program might be the closest you'll ever get to making a business decision that has exclusively positive impact."
+      content : "BSides Bangalore strives to bring together the best minds in the industry. It encourages and inspires professionals at all career levels globally to join us and collaborate and network with world-class security researchers, and leaders in the public and private sectors."
       
     # feature item loop
     - name : "Great Community"
       icon : "tf-ion-android-share"
-      content : "Networking is the exchange of information and ideas among people with a common profession or special interest, usually in an informal social setting."
+      content : "BSides Bangalore takes pride in recognizing our sponsors and partners who support us positively to the growth of BSides Bangalore. This event provides unique opportunities for community engagement between vendors and attendees."
 
 ####################### Schedule #############################
 schedule:
