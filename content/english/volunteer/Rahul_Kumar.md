@@ -16,14 +16,6 @@ social:
   # social site loop
   - icon : "tf-ion-social-linkedin"
     link : "https://www.linkedin.com/in/rahul-kumar-"
-
-# professional skill
-skill:
-  # skill loop
-  - title : "UX Lead"
-    icon : "tf-ion-android-document"
-    content : "Graphic Design Specialist with demonstrated history of working in the non-profit organization management industries. Skilled in UI / UX, Unity3D, Game Design, Graphic Design, Maya, and Visual Effects."
-    
 ---
 
 Rahul is a creative designer working for many companies. I am specialized in UX and Product designing. Also contribution organisations as a Graphics designer.
