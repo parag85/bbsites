@@ -102,6 +102,10 @@ sponsor:
         - logo : "images/clients/secarmy.png"
           link : "https://secarmy.org"
 
+        # sponcor loop
+        - logo : "images/clients/red_team_village.png"
+          link : "#"          
+
     ############################ sponsor group loop
 #    - title : "Platinum Sponsors"
 #      sponsor:
