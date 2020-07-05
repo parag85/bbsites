@@ -20,25 +20,8 @@ social:
   - icon : "tf-ion-social-linkedin"
     link : "https://www.linkedin.com/in/vishalpanchani/"
 
-# professional skill
-skill:
-  # skill loop
-  - title : "Course Correction"
-    icon : "tf-ion-android-document"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-    
-  # skill loop
-  - title : "Execute the Decision"
-    icon : "tf-ion-android-desktop"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-    
-  # skill loop
-  - title : "Planning the Moves"
-    icon : "tf-ion-android-bulb"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
 ---
 
 Vishal - highly professional security consultant with 3 years of Industry experience in Information Security where currently responsible for performing penetration testing of web applications, mobile applications, thick client applications and network.
 
-Currently performing penetration testing and mitigation check for the client applications as an Individual Contributor.
-Expertise is various aspects of Penetration testing, Vulnerability assessment; Reverse engineering, Security Training, Threat Modeling.
+Currently performing penetration testing and mitigation check for the client applications as an Individual Contributor. Expertise is various aspects of Penetration testing, Vulnerability assessment; Reverse engineering, Security Training, Threat Modeling.

@@ -20,7 +20,6 @@ social:
   - icon : "tf-ion-social-linkedin"
     link : "https://www.linkedin.com/in/arun1105/"
 
-
 ---
 
 Arun is a Senior Security Consultant @ IBM - India Software Labs. Nearly 5 Years of experience in Information Security domain which includes technical expertise on Web Application, Web Services(REST/SOAP), Mobile(iOS/Android) & Network Penetration testing. 
