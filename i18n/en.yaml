@@ -31,5 +31,5 @@
 - id: email
   translation: Email
 
-- id: professional_skills
-  translation: Professional Skills
+#- id: professional_skills
+#  translation: Professional Skills
