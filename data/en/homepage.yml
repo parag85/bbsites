@@ -21,7 +21,7 @@ timer:
 
 ############################## Event ##############################
 event:
-  enable : true
+  enable : false
   title_outline : "event"
   title : "The New Era of Tech Companies"
   image_back : "images/about/h1-gallery-img-7.jpg"
