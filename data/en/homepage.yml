@@ -51,7 +51,7 @@ feature:
     # feature item loop
     - name : "Valuable Insight"
       icon : "tf-ion-android-microphone"
-      content : "Events Drinks and Dancing are hosting an After Party and YOU ARE INVITED!!"
+      content : "BSides Bangalore presents technical security talks, technical hands-on workshops, CTF and other interesting knowledge gaining events on cutting edge security technologies, with the very latest security research, development and trends..!"
       
     # feature item loop
     - name : "Global Audience"
