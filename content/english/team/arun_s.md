@@ -20,22 +20,7 @@ social:
   - icon : "tf-ion-social-linkedin"
     link : "https://www.linkedin.com/in/arun1105/"
 
-# professional skill
-skill:
-  # skill loop
-  - title : "Course Correction"
-    icon : "tf-ion-android-document"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-    
-  # skill loop
-  - title : "Execute the Decision"
-    icon : "tf-ion-android-desktop"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-    
-  # skill loop
-  - title : "Planning the Moves"
-    icon : "tf-ion-android-bulb"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
+
 ---
 
 Arun is a Senior Security Consultant @ IBM - India Software Labs. Nearly 5 Years of experience in Information Security domain which includes technical expertise on Web Application, Web Services(REST/SOAP), Mobile(iOS/Android) & Network Penetration testing. 
