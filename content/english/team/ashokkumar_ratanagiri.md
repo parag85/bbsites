@@ -11,9 +11,6 @@ email : "ashokkumar@bb.com"
 type : "team"
 social:
   # social site loop
-  - icon : "tf-ion-social-facebook"
-    link : "#"
-  # social site loop
   - icon : "tf-ion-social-twitter"
     link : "https://twitter.com/ashokratnagiri"
   # social site loop
