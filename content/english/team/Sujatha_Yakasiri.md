@@ -11,14 +11,11 @@ email : "sujathay.nweh@gmail.com"
 type : "team"
 social:
   # social site loop
-  - icon : "tf-ion-social-facebook"
-    link : "#"
-  # social site loop
   - icon : "tf-ion-social-twitter"
-    link : "#"
+    link : "https://twitter.com/ninjaweh"
   # social site loop
   - icon : "tf-ion-social-linkedin"
-    link : "#"
+    link : "https://www.linkedin.com/in/sujathayakasiri/"
 
 ---
 
