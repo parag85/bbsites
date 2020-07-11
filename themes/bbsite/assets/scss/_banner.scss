@@ -13,11 +13,11 @@
       letter-spacing: -.04em;
 
       @include desktop {
-        font-size: 80px;
+        font-size: 60px;
       }
 
       @include tablet {
-        font-size: 60px;
+        font-size: 40px;
       }
     }
 
