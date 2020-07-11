@@ -1,9 +1,9 @@
 ############################# banner ################################
 banner:
   enable : true
-  title : "Open <br> Security <br> Summit"
+  title : "BSides<br>Bangalore<br>Security<br>Conference"
   bg_image: "images/banner/banner-2.jpg"
-  date_time : "Date:  Coming Soon!"
+  date_time : ""
 #  button:
 #    enable : "Discover more"
 #    label : "Discover more"
