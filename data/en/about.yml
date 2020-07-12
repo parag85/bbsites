@@ -3,8 +3,8 @@ about:
   enable : true
   image : "images/bg/ctg.jpg"
   title : "Inspire **Support Collaborate** & Connect"
-  content : "BSides Bangalore is community driven platform had arrived to silicon valley of India to enable encourage and appreciate the Cyber Security community by providing opportunity to collaborate,network and learn security geeks around. <br/><br/>
-First Ever Bsides Conference at Bangalore Security Besides Bangalore 2020 is one of its kind of security event that aims to bring together Cyber, Data Privacy, auditing forensics community provides a meeting place for like Minded Professionals."
+  content : "Each BSides is a community-driven framework for building events for and by information security community members.<br>
+First ever BSides Bangalore conference in Silicon Valley of India.  The goal is to expand the spectrum of conversation beyond the traditional confines of space and time.  It creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening. "
 ################## sponsor ###############################
 sponsor:
   enable : true
