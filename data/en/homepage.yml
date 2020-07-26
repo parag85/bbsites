@@ -110,6 +110,9 @@ sponsor:
         - logo : "images/clients/nullcon.png"
           link : "https://nullcon.net/"          
 
+        # sponcor loop
+        - logo : "images/clients/TheDianaInitiative.png"
+          link : "https://www.dianainitiative.org/"
     ############################ sponsor group loop
 #    - title : "Platinum Sponsors"
 #      sponsor:
